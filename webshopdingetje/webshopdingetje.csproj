@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\plaatjes\" />
+    <Content Include="Pages\plaatjes\electronicm.jpeg" />
+    <Content Include="Pages\plaatjes\schroef.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Pages\plaatjes\" />
   </ItemGroup>
 
 </Project>
